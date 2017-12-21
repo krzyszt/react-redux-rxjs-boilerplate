@@ -10,7 +10,11 @@ module.exports = {
     'react'
   ],
   rules: {
-    'max-len': [1, 150]
+    'max-len': [1, 150],
+    'no-confusing-arrow': 0,
+    'no-param-reassign': ['error', { 'props': false }],
+    'react/jsx-uses-react': 'error',
+    'react/jsx-uses-vars': 'error'
   },
   parser: 'babel-eslint'
 }
