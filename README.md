@@ -22,5 +22,7 @@ The starter kit comes with a configured Redux store which uses
 (<a href="https://github.com/ReactiveX/RxJS">RxJS 5</a>- based middleware for Redux) 
 <br />
 
-Redux-observable is middleware for Redux that uses RxJS under the hood to turn every action emitted by your Redux app into an observable stream. The core primitive of redux-observable is called an epic, which is a function that listens for actions on that stream, and allows you to react to those actions before optionally emitting new actions yourself — actions in , actions out. 
-The middleware does this by calling .subscribe(store.dispatch) for you behind the scenes on every item emitted by your root epic.
+Redux-observable turns every action emitted by your Redux app into an observable stream. 
+The core primitive of redux-observable is called an epic, which is a function that listens for actions on that stream, 
+and allows you to react to those actions before optionally emitting new actions yourself — actions in , actions out. 
+The middleware does this by calling .subscribe(store.dispatch) for you behind the scenes on every item emitted by your root epic._
