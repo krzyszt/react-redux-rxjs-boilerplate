@@ -15,12 +15,12 @@ Built with <a href="https://neutrino.js.org/">Neutrino</a>.
 3. Run `yarn install` in order to install dependencies<br />
 4. At this point you can run `yarn start` to see the example app at `http://localhost:5000`
 
-## Redux and Epics (Redux-Observable) 
+## Redux and Epics(Redux-Observable). Welcome to Reactive Programming! 
 
 The starter kit comes with a configured Redux store which uses 
 <a href="https://redux-observable.js.org/">Redux-observable</a> 
 (<a href="https://github.com/ReactiveX/RxJS">RxJS 5</a>- based middleware for Redux).
-Welcome to Reactive Programming!
+
 <br />
 
 Redux-observable turns every action emitted by your Redux app into an observable stream. 
