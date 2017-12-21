@@ -10,6 +10,7 @@ module.exports = {
     'react'
   ],
   rules: {
+    'comma-dangle': ['error', 'never'],
     'max-len': [1, 150],
     'no-confusing-arrow': 0,
     'no-param-reassign': ['error', { 'props': false }],
