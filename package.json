@@ -2,9 +2,13 @@
   "name": "react-redux-rxjs-boilerplate",
   "version": "1.0.0",
   "description": "React and Redux-Observable boilerplate with Neutrino",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krzyszt/react-redux-rxjs-boilerplate.git"
+  },
   "author": "Krzysztof Kaminski",
-  "private": true,
+  "license": "MIT",
+  "main": "index.js",
   "devDependencies": {
     "@neutrinojs/airbnb-base": "^8.0.13",
     "@neutrinojs/jest": "^8.0.13",
