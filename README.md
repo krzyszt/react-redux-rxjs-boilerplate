@@ -8,7 +8,7 @@ A highly opinionated, advanced starter kit for web development using
 <a href="https://redux-observable.js.org/">Redux-observable</a>.
 Built with <a href="https://neutrino.js.org/">Neutrino</a>.
 
-An Angular 5 version yu can find here <a href="https://github.com/krzyszt/angular-redux-rxjs-boilerplate">angular-redux-rxjs-boilerplate</a>.
+An Angular 5 version you can find here <a href="https://github.com/krzyszt/angular-redux-rxjs-boilerplate">angular-redux-rxjs-boilerplate</a>.
 
 ## Quick start
 
