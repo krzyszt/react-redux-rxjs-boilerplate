@@ -1,0 +1,41 @@
+{
+  "name": "react-redux-rxjs-boilerplate",
+  "version": "1.0.0",
+  "description": "React and Redux-Observable boilerplate with Neutrino",
+  "main": "index.js",
+  "author": "Krzysztof Kaminski",
+  "private": true,
+  "devDependencies": {
+    "@neutrinojs/airbnb-base": "^8.0.13",
+    "@neutrinojs/jest": "^8.0.13",
+    "@neutrinojs/react": "^8.0.13",
+    "enzyme": "^3.2.0",
+    "neutrino": "^8.0.13",
+    "react-addons-test-utils": "^15.6.2"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-react": "^7.5.1",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.8",
+    "redux": "^3.7.2",
+    "redux-immutable": "^4.0.0",
+    "redux-observable": "^0.17.0",
+    "reselect": "^3.0.1",
+    "rxjs": "^5.5.5"
+  },
+  "scripts": {
+    "start": "neutrino start",
+    "build": "neutrino build",
+    "test": "neutrino test",
+    "test-watch": "neutrino test --watch",
+    "test-coverage": "neutrino test --coverage"
+  }
+}
