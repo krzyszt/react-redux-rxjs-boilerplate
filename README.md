@@ -2,7 +2,7 @@
 React and Redux-Observable boilerplate with Neutrino
 
 
-An opinionated and advanced starter kit for web development using 
+A highly opinionated, advanced starter kit for web development using 
 <a href="https://reactjs.org/">React</a>,
 <a href="https://redux.js.org/">Redux</a> and 
 <a href="https://redux-observable.js.org/">Redux-observable</a>.
