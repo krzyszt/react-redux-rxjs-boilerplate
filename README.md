@@ -25,4 +25,6 @@ The starter kit comes with a configured Redux store which uses
 Redux-observable turns every action emitted by your Redux app into an observable stream. 
 The core primitive of redux-observable is called an epic, which is a function that listens for actions on that stream, 
 and allows you to react to those actions before optionally emitting new actions yourself — actions in , actions out. 
-The middleware does this by calling .subscribe(store.dispatch) for you behind the scenes on every item emitted by your root epic._
+<br />
+
+To add a new application slice just add a new reducer to the rootReducer then add new actions and epics or replace existing ones..
