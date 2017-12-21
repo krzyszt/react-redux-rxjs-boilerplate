@@ -41,6 +41,6 @@ Run `yarn build` to build the application.
 
 ## Storybook
 
-The starter kit comes with a configured Storybook.
+The starter kit comes with a configured <a href="https://github.com/storybooks/storybook">Storybook</a> 
 
 Run `yarn storybook` to see the storybook at `http://localhost:6006`
