@@ -8,7 +8,6 @@ export function login(payload) {
 }
 
 export function logout() {
-  console.log('logout');
   return {
     type: constants.LOGOUT
   };
