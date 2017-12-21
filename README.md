@@ -19,7 +19,8 @@ Built with <a href="https://neutrino.js.org/">Neutrino</a>.
 
 The starter kit comes with a configured Redux store which uses 
 <a href="https://redux-observable.js.org/">Redux-observable</a> 
-(<a href="https://github.com/ReactiveX/RxJS">RxJS 5</a>- based middleware for Redux) 
+(<a href="https://github.com/ReactiveX/RxJS">RxJS 5</a>- based middleware for Redux).
+Welcome to Reactive Programming!
 <br />
 
 Redux-observable turns every action emitted by your Redux app into an observable stream. 
