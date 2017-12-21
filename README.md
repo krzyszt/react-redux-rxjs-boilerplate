@@ -27,4 +27,20 @@ The core primitive of redux-observable is called an epic, which is a function th
 and allows you to react to those actions before optionally emitting new actions yourself — actions in , actions out. 
 <br />
 
-To add a new application slice just add a new reducer to the rootReducer then add new actions and epics or replace existing ones..
+To add a new application slice just add a new reducer to the rootReducer then add new actions and epics or replace existing ones.
+
+## Testing
+
+The starter kit comes with a configured testing environment.
+
+Run `yarn test`, `yarn test-watch` or `yarn test-coverage` for testing.
+
+## Build
+
+Run `yarn build` to build the application. 
+
+## Storybook
+
+The starter kit comes with a configured Storybook.
+
+Run `yarn storybook` to see the storybook at `http://localhost:6006`
